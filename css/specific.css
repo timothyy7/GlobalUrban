@@ -1,0 +1,264 @@
+/* Anything that applies to only a specific page, not a reusable, modular element add here. Before you push your project live to your hosting you will merge the two files together, but the purpose of separating it now is to make it really clear to you how much of your code is reusable and how much of it is specific to certain elements or pages */
+
+/* Page Name  - Section Name */
+
+/*@media (max-width: 375px){
+  .shrink {
+    text-align: center;
+    position: relative;
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 500px){
+  .shrink {
+    text-align: center;
+    position: relative;
+    font-size: 20px;
+  }
+}*/
+
+@media (max-width: 700px){
+  .shrink {
+    text-align: center;
+    position: relative;
+    font-size: 20px;
+  }
+}
+
+
+
+@media (max-width: 770px) {
+  .right {
+      margin-top: -5vh;
+      text-align: center;
+  }
+}
+
+@media (max-width: 530px) {
+  .logo {
+    display: none;
+  }
+}
+
+.frontTitle {
+  font-size: 7vh;
+  margin-top: 47vh;
+  position: relative;
+}
+
+.secondFrontTitle {
+  font-size: 5vh;
+  margin-top: -5vh;
+  position: relative;
+}
+
+.menuRight {
+  position: relative;
+  margin-left: auto;
+}
+/*nav.right {
+/*margin-top: 0;*/
+/*margin-left: 50vh;
+}*/
+
+.box {
+  padding: 1vh;
+  background-color: #00838F;
+  border-radius: 10px;
+  margin-left: 44vw;
+  margin-top: 5vh;
+}
+/*
+@media (max-width:760px) {
+
+}*/
+
+.videoSize {
+  height: auto;
+  width: 60%;
+  position: absolute;
+  top: 24vh;
+  left: -1vw;
+  z-index: 5;
+  border: 15px solid white;
+}
+
+.videoSize-alt {
+  top: 20vh;
+  left: 2vw;
+  border: 15px solid #00838F;
+}
+
+.photoSize {
+  height: 40%;
+  width: 60%;
+}
+
+p {
+  color: #37474F;
+  font-family: 'Lato', sans-serif;
+}
+
+.whiteFont {
+  color: white;
+}
+
+@media(max-width:1000px) {
+  .aboutSize {
+    text-align: center;
+    font-size: 100px;
+  }
+}
+
+@media(max-width:800px) {
+  .aboutSize {
+    text-align: center;
+    font-size: 70px;
+  }
+}
+
+@media(max-width:600px) {
+  .aboutSize  {
+    text-align: center;
+    font-size: 50px;
+  }
+}
+
+@media(max-width:375px) {
+  .aboutSize {
+    text-align: center;
+    font-size: 30px;
+  }
+}
+
+h2 {
+  font-family: 'Muli', sans-serif;
+  font-size: 150px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.plans h2 {
+  font-size: 300%;
+}
+
+.rel {
+  position: relative;
+}
+
+.pic1 {
+  top: 1vh;
+  position: relative;
+  left: 17vw;
+}
+
+.pic2 {
+  top: 11vh;
+  position: relative;
+  left: 13vw;
+  z-index: 10;
+  border: 15px solid white;
+}
+
+.pic1-alt {
+  top: -5vh;
+  left: 22vw;
+}
+
+.pic2-alt {
+  top: 5vh;
+  left: 14vw;
+  z-index: 10;
+  border: 15px solid #00838F;
+}
+
+.featurepanel {
+  background-color: #00838F;
+}
+
+.arrow {
+  color: #B2EBF2;
+}
+
+.icons {
+  font-size: 7rem;
+  padding: 1rem;
+}
+
+.noPaddingLeft {
+  padding-left: 0 0;
+}
+
+.noPaddingRight {
+  padding-right: 0 0;
+}
+
+.darkFont {
+  color: #00838F;
+}
+
+.topSection {
+  margin-top: 10vh;
+}
+
+.newsletter {
+  font-size: 125px;
+  text-align: center;
+  width: auto;
+  padding: 1rem;
+}
+
+@media(max-width:800px) {
+  .newsletter {
+    text-align: center;
+    font-size: 70px;
+  }
+}
+/*
+@media(max-width:600px) {
+  .newsletter {
+    text-align: center;
+    font-size: 60px;
+  }
+}
+
+@media(max-width:375px) {
+  .newsletter {
+    text-align: center;
+    font-size: 50px;
+  }
+}*/
+
+
+input:-webkit-input-placeholder,
+input:-ms-input-placeholder ,
+input:-moz-placeholder,
+input::-moz-placeholder {
+    font-family: 'Muli', sans-serif;
+}
+
+li {
+  color: #00838F;
+}
+
+.credibility {
+  display: block;
+  margin-left: 60vh;
+}
+
+.footerColor {
+  background-color: #B2EBF2;
+}
+
+
+.contactMeToday {
+  padding: 1rem;
+}
+
+/* Page Name  - Section Name */
+
+
+/* Page Name  - Section Name */

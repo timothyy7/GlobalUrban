@@ -1,0 +1,222 @@
+
+<!-- THIRD ICON GRID SECTION ---->
+  <section class="centered grid-2_sm-1">
+  <div class="col">
+    <h3>SEO (Search Engine Optimization)</h3>
+    <p>Ranking, Google Business, Keywords</p>
+  </div>
+
+  <div>
+    <video class="videoSize col rel" width="320" height="240" autoplay loop muted>
+      <source src="videos/video2.mp4" type="video/mp4">
+    </video>
+  </div>
+
+  <div class="photoSize col rel">
+    <img src="images/photo3.jpg" />
+  </div>
+
+  <div class="photoSize col rel">
+    <img src="images/photo4.jpg" />
+  </div>
+</section>
+
+<!-- FOURTH ICON GRID SECTION ---->
+  <section class="centered grid-2_sm-1">
+  <div class="col">
+    <h3>Branding & identity</h3>
+    <p>Defining Who You Are And Why You're Important</p>
+  </div>
+
+  <div>
+    <video class="videoSize col rel" width="320" height="240" autoplay loop muted>
+      <source src="videos/video3.mp4" type="video/mp4">
+    </video>
+  </div>
+
+  <div class="photoSize col rel">
+    <img src="images/photo5.jpg" />
+  </div>
+
+  <div class="photoSize col rel">
+    <img src="images/photo6.jpg" />
+  </div>
+</section>
+
+<!-- FIFTH ICON GRID SECTION ---->
+  <section class="centered grid-2_sm-1">
+
+
+  <div>
+    <video class="videoSize col rel" width="320" height="240" autoplay loop muted>
+      <source src="videos/video4.mp4" type="video/mp4">
+    </video>
+  </div>
+
+  <div class="photoSize col rel">
+    <img src="images/photo7.jpg" />
+  </div>
+
+  <div class="photoSize col rel">
+    <img src="images/photo8.jpg" />
+  </div>
+
+  <div class="col">
+    <h3>Social Media Advertising</h3>
+    <p>FB Ads, Instagram, YouTube, Twitter</p>
+  </div>
+
+</section>
+
+<!-- SIXTH ICON GRID SECTION ---->
+  <section class="centered grid-2_sm-1">
+  <div class="col rel">
+
+  <div>
+    <video class="videoSize" width="320" height="240" autoplay loop muted>
+      <source src="videos/video5.mp4" type="video/mp4">
+    </video>
+  </div>
+
+  <div class="photoSize">
+    <img src="images/photo9.jpg" />
+  </div>
+
+  <div class="photoSize">
+    <img src="images/photo10.jpg" />
+  </div>
+  </div>
+
+  <div class="centered col">
+    <h3>Website Creation / Website Optimization</h3>
+    <p>HTML, CSS, Javascript, Jekyll, Responsive Design</p>
+  </div>
+
+</section>
+
+
+
+<!-- SEVENTH ICON GRID SECTION ---->
+  <section class="centered grid-2_sm-1">
+  <div class="col">
+    <h3>Pay Per Click Advertising</h3>
+    <p>Google Adwords Optimization</p>
+  </div>
+
+  <div>
+    <video class="videoSize col rel" width="320" height="240" autoplay loop muted>
+      <source src="videos/video6.mp4" type="video/mp4">
+    </video>
+  </div>
+
+  <div class="photoSize col rel">
+    <img src="images/photo11.jpg" />
+  </div>
+
+  <div class="photoSize col rel">
+    <img src="images/photo12.jpg" />
+  </div>
+</section>
+
+<!-- EIGHTH ICON GRID SECTION ---->
+
+<section class="centered grid-2_sm-1">
+<div class="col">
+  <h3>Market Researching</h3>
+  <p>Hypertargeting your perfect client.</p>
+</div>
+
+<div>
+  <video class="videoSize col rel" width="320" height="240" autoplay loop muted>
+    <source src="videos/video7.mp4" type="video/mp4">
+  </video>
+</div>
+
+<div class="photoSize col rel">
+  <img src="images/photo13.jpg" />
+</div>
+
+<div class="photoSize col rel">
+  <img src="images/photo14.jpg" />
+</div>
+
+</section>
+
+<!-- NINE ICON GRID SECTION ---->
+  <section class="centered grid-2_sm-1">
+  <div class="col">
+    <h3>Content Creation</h3>
+    <p>Copywriting, Video Creation, Photography, Gif's, Logos & Animinations</p>
+  </div>
+
+  <div>
+    <video class="videoSize col rel" width="320" height="240" autoplay loop muted>
+      <source src="videos/video8.mp4" type="video/mp4">
+    </video>
+  </div>
+
+  <div class="photoSize col rel">
+    <img src="images/photo15.jpg" />
+  </div>
+
+  <div class="photoSize col rel">
+    <img src="images/photo16.jpg" />
+  </div>
+
+</section>
+
+<!-- TENTH ICON GRID SECTION ---->
+  <section class="centered grid-2_sm-1">
+  <div class="col">
+    <h3>Sales Funnel Creation</h3>
+    <p>Either Through ClickFunnels or HTML Creation.</p>
+  </div>
+
+  <div class="col rel">
+    <video class="videoSize col rel" width="320" height="240" autoplay loop muted>
+      <source src="videos/video9.mp4" type="video/mp4">
+    </video>
+  </div>
+
+  <div class="photoSize col rel">
+    <img11 src="images/photo17.jpg" />
+  </div>
+
+  <div class="photoSize col rel">
+    <img src="images/photo18.jpg" />
+  </div>
+</section>
+
+<!-- ELEVENTH ICON GRID SECTION ---->
+
+<section class="centered grid-2_sm-1">
+<div class="col">
+  <h3>Email Marketing</h3>
+  <p>To collect emails for retargeting for optimal remarketing</p>
+</div>
+
+<div class="col rel">
+  <video class="videoSize col rel" width="320" height="240" autoplay loop muted>
+    <source src="videos/video10.mp4" type="video/mp4">
+  </video>
+</div>
+
+<div class="photoSize col rel">
+  <img src="images/photo19.jpg" />
+</div>
+
+<div class="photoSize col rel">
+  <img src="images/photo20.jpg" />
+</div>
+</section>
+
+<section class="centered grid-2_sm-1" id="register">
+
+</section>
+
+<section class="plans">
+  <div>
+    <h2>Tailored Ideas Just For Your Needs</h2>
+    <h2></h2>
+  </div>
+</section>
