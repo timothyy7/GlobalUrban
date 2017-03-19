@@ -41,6 +41,10 @@
   }
 }
 
+.size {
+  font-size: 5rem;
+}
+
 .frontTitle {
   font-size: 7vh;
   margin-top: 47vh;
