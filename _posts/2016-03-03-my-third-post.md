@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Digital Marketing Vs. Traditional Marketing: Which One Is Better?
+title: Third Blog Post
 meta-description:
 meta-keywords:
-image_path: /images/marketing2.png
-categories: [online, marketing]
-author: Julie Cave
+image_path: http://www.instituteofcode.com/assets/images/rice-paddy.jpg
+categories: [wine, food]
+author: Emile Kuzma-Floyd
 ---
-
 
 Ad quo animal legimus legendos. Ut eum veniam dicunt virtute, an noster voluptua convenire mei. At sed tollit scaevola, an maiorum repudiare per. Mei epicuri apeirian ne, usu iisque aliquam praesent ad, omnes ullamcorper in pri. Vitae quaeque mea cu. Mei quot laoreet laboramus eu, cu propriae patrioque maiestatis vel.
