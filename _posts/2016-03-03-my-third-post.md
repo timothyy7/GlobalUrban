@@ -8,34 +8,77 @@ categories: [online, marketing]
 author: Nicole Leinbach-Reyhle
 ---
 
-Online marketing isn't something new for small businesses to consider anymore. In fact, it's quite the opposite... having been going on for years and seemingly has no end in sight. Yet, far too many small business owners neglect how important online marketing is for their business success. Among the reasons this seems to be is time. Another money. And yet another is that they don't care. The reality is, however, customers do care and in order to be relevant in today's crowded marketplace, being online is a must.
+Digital Marketing Vs. Traditional Marketing: Which One Is Better?
+meta-description:
+meta-keywords:
+image_path: /images/marketing2.png
+categories: [traditional marketing, digital marketing]
+author: Julie Cave
+---
 
-Ten years ago it may have been a choice to jump on the online bandwagon, but now it's an absolute must to survive and thrive as a small business. With over 85% of searches for products and services happening online, it's just a "duh" at this point," shares Jenny Servis, Vice President of Marketing for marketing solutions company SnapRetail. Expanding on this, Servis adds that "being online means having a responsive, search optimized website as well as an engaging and growing following on social media plus using email as part of your marketing mix."
+What's the difference between digital marketing and traditional marketing, and why does it matter? The answers may surprise you.
 
-Having a website that's search optimized, being on social media that you actually engage with and incorporating email into your marketing strategy may seem like a hefty load to carry, but the reality is it is almost too easy for small businesses to do nowadays. Automated marketing solutions help make consistent, frequent updates to all these channels nearly turn-key, and the data that's tracked from social media, email marketing and other online strategies offers more than enough of a reason to make it a priority. The key word here is data - something small businesses can really gain from when reviewing it and reacting to it consistently.
+Many small businesses struggle with deciding which kind of marketing to do, because their budget will only stretch to one or the other, not both. The decisions that must be made are not easy: which method of marketing will give me the most bang for my buck? How do I know if my marketing is working? Who should I trust with my marketing? Should I do it myself? The answers may surprise you.
 
-Online or Offline Marketing... Do You Have to Make a Choice?
+To clarify the terms, the use of print ads on newspapers and magazines is a simple example of traditional marketing. Other examples include flyers that are put in mailboxes, commercials both on TV and radio and billboards. On the other hand, when a business invests on building a website, advertising the brand name through different social media such as Facebook, Twitter and YouTube, this kind strategy is called digital marketing.
 
-Many businesses, particularly those that don't actually sell anything online, often complain that there's not enough time in the day to "do it all" and as a result, online marketing gets shoved to the side. Unfortunately, this isn't how customers make decisions. The reality is consumers - likely even you - turn to the internet to discover what to do, where to go, who to buy things from and more. Keeping this in mind, shopping online isn't the only reason people go online. Instead, being online leverages multiple avenues for small businesses to gain visibility among consumers. As Servis explains, "leveraging your online and offline marketing ​together ​can more than double your efforts."
+Benefits of Traditional Marketing
 
-Some examples Servis offers includes the following:
+You can easily reach your target local audience. For example, a radio ad might play in one location: your city or region. Or mailbox flyers will go to households in a select number of suburbs.
 
--Promot​e​ your social media ​presence ​on your print collateral in your physical business location
+The materials can be kept. The audience can have a hard copy of materials of which they can read or browse through over and over again.
 
-​-R​emind your customers to "Like us on Facebook" with signage displayed within your business location
+It's easy to understand. It can be easily understood by most people because they are already exposed to this kind of strategy.
 
-​​-Use hashtags in your offline ads, helping your customers connect with you online via an offline channel
+Neuroscience seems to support the benefits of hard copy marketing. A study sponsored by Canada Post and performed by Canadian neuro-marketing firm TrueImpact compared the effects of paper marketing (direct mail pieces, in this case) with digital media (email and display ads).
 
--Connect an in-store event with an online tweet, post or blog post - helping to connect your online and offline worlds
+The technologies used in this study were eye-tracking and high resolution EEG brain wave measurement. The three key metrics evaluated in the study were cognitive load (ease of understanding), motivation (persuasiveness), and attention (how long subjects looked at the content).
 
-With an estimated one in four Americans making at least one online purchase a week, 70% of Facebook users interacting with Facebook daily and the average Smartphone user picking up their phone about 1,500 times a week,  there are countless reasons that being online is not just important - but rather a must when it comes to connecting with consumers. As a way to better support this, Melissa O’Malley, Director of Global Merchant & Cross-Border Trade Initiatives at PayPal, believes that small businesses need to find partners who align with all the marketing and sales channels that they aim to achieve online.
+Direct mail was easier to process mentally and tested better for brand recall.  According to the report,
 
-"When considering marketing online - as well as selling online - it is important for small businesses to look for partners that offer best-of-breed products, solutions and services that provide the most convenience to the businesses and their customers," shares O'Malley. Expanding on this, O'Malley notes that for small businesses, "what used to take weeks to set up now takes only minutes."
+Direct mail requires 21% less cognitive effort to process than digital media (5.15 vs. 6.37), suggesting that it is both easier to understand and more memorable. Post-exposure memory tests validated what the cognitive load test revealed about direct mail’s memory encoding capabilities. When asked to cite the brand (company name) of an advertisement they had just seen, recall was 70% higher among participants who were exposed to a direct mail piece (75%) than a digital ad (44%).
 
-Minutes. That's what it takes to get things up and running for much of the online marketing solutions available for small businesses to implement into their businesses. Additionally, it's valuable to consider investing some of your hard earned dollars into online marketing so that you can gain easy to use, automated online marketing solutions - allowing you to spend more time doing what you (hopefully) do best... run your business and make money.
+The Downside to Traditional Marketing
 
-The Single Most Important Reason You Need to Be Online
+There is very little interaction between the medium used and the customers. It is more of providing information to the public that the brand exists with the hope of these people patronizing the brand.
 
-"Consumers have too many choices these days and they have to be constantly reminded that you exist. The best way to reach them is where they spend a good bit of time... which is online," Servis, a VP of Marketing with SnapRetail, firmly states.
+Print or radio advertisements can be very costly. Printing materials can be expensive and you need to hire people to distribute these.
 
-And that, friends, leads us to the single most important reason you need to be consistently and efficiently using online marketing as part of your sales strategy... customers. Customers are online, which mean you need to be, too.
+Results on this marketing strategy cannot easily be measured. Was the campaign successful?
+
+Benefits of Digital Marketing
+
+You can target a local audience, but also an international one. Further, you can tailor a campaign to specific audience demographics, such as gender, location, age and interests. This means your campaign will be more effective.
+
+Your audience can choose how they want to receive your content. While one person likes to read a blog post, another person likes to watch a YouTube video. Traditional marketing doesn't give the audience a choice. Most people hate receiving sales flyers in their mailbox or phone calls at inconvenient times on stuff that they have little interest in.  Online people get the choice to opt in or out of communications and often it is relevant because they were the ones searching for it in the first place.  Don’t underestimate the power of market segmentation and tailored marketing.
+
+Interaction with your audience is possible with the use of social media networks. In fact, interaction is encouraged. Traditional marketing methods don't allow for audience interaction. You can encourage your prospects, clients and followers to take action, visit your website, read about your products and services, rate them, buy them and provide feedback which is visible to your market.
+
+Digital marketing is cost-efficient. Though some invest on paid ads online; however, the cost is still cheaper compared to traditional marketing.
+
+Data and results are easily recorded. With Google Analytics and the insights tools offered by most social media channels, you can check on your campaigns at any time. Unlike traditional marketing methods, you can see in real time what is or is not working for your business online and you can adapt very quickly to improve your results.
+
+Level playing field:  Any business can compete with any competitor regardless of size with a solid digital marketing strategy.  Traditionally a smaller retailer would struggle to match the finesse of the fixtures and fittings of its larger competitors.  Online, a crisp well thought out site with a smooth customer journey and fantastic service is king – not size.
+
+Real time results: you don’t have to wait weeks for a boost to your business like you would have to waiting for a fax or form to be returned.  You can see the numbers of visitors to your site and its subscribers increase, peak trading times, conversion rates and much more at the touch of a button.
+
+Brand Development: A well maintained website with quality content targeting the needs and adding value to your target audience can provide significant value and lead generation opportunities.  The same can be said for utilizing social media channels and personalized email marketing.
+
+Viral: how often do your sales flyers get passed around instantly by your customers and prospects?  Online, using social media share buttons on your website, email and social media channels enables your message to be shared incredibly quickly.  If you consider the average Facebook user has 190 friends of which an average of 12% see their liked posts – your one message has actually been seen by 15 new prospects. Now imagine a number of them also like and share your message and their friends do the same?  That's why high-quality content is so important.
+
+So which kind of marketing is better?
+
+Well, we would recommend both. Obviously, we are passionate about digital marketing, because we know that it works. But we do use traditional marketing materials, too.
+
+A 2009 study conducted by Bangor University and branding agency Millward Brown also used fMRI to study the different effects of paper and digital media.
+
+Some of their key conclusions were:
+
+Physical material is more “real” to the brain.  It has a meaning, and a place. It is better connected to memory because it engages with its spatial memory networks.
+Physical material involves more emotional processing, which is important for memory and brand associations.
+Physical materials produced more brain responses connected with internal feelings, suggesting greater “internalization” of the ads.
+How We Use Both Digital & Traditional Marketing
+
+Our traditional marketing methods support our digital marketing efforts. The two do not operate in exclusion from each other. But we only use hard copy marketing materials to further strengthen a relationship with a contact, referral partner or client. We don't invest in television or radio ads, for example, but we will give brochures to someone who is interested in our services.
+
+Rather than taking an all or nothing approach, it appears that a multi-channel approach that leverages the unique benefits of paper with the convenience and accessibility of digital will perform best.
