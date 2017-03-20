@@ -66,10 +66,10 @@ A 2009 study conducted by Bangor University and branding agency Millward Brown a
 
 Some of their key conclusions were:
 
-Physical material is more “real” to the brain.  It has a meaning, and a place. It is better connected to memory because it engages with its spatial memory networks.
-Physical material involves more emotional processing, which is important for memory and brand associations.
-Physical materials produced more brain responses connected with internal feelings, suggesting greater “internalization” of the ads.
-How We Use Both Digital & Traditional Marketing
+-Physical material is more “real” to the brain.  It has a meaning, and a place. It is better connected to memory because it engages with its spatial memory networks.
+-Physical material involves more emotional processing, which is important for memory and brand associations.
+-Physical materials produced more brain responses connected with internal feelings, suggesting greater “internalization” of the ads.
+-How We Use Both Digital & Traditional Marketing
 
 Our traditional marketing methods support our digital marketing efforts. The two do not operate in exclusion from each other. But we only use hard copy marketing materials to further strengthen a relationship with a contact, referral partner or client. We don't invest in television or radio ads, for example, but we will give brochures to someone who is interested in our services.
 
