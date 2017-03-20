@@ -4,7 +4,7 @@ title: Digital Marketing Vs. Traditional Marketing: Which One Is Better?
 meta-description:
 meta-keywords:
 image_path: /images/marketing2.png
-categories: [traditional marketing, internet marketing]
+categories: [wine, food]
 author: Julie Cave
 ---
 
