@@ -251,6 +251,19 @@ li {
   color: #00838F;
 }
 
+.flip {
+  position: absolute;
+  margin-top: -93vh;
+  margin-left: 120vh;
+  border-radius: 40%;
+}
+
+@media(max-width:1460px) {
+  .flip {
+    display: none;
+  }
+}
+
 .credibility {
   display: block;
   margin-left: 30vh;
