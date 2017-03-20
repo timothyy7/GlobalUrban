@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital Marketing Vs. Traditional Marketing: Which One Is Better?
+title: The Single Most Important Reason Why Online Marketing Is More Important Than Ever
 meta-description:
 meta-keywords:
 image_path: /images/marketing2.png
