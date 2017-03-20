@@ -129,6 +129,12 @@ color: #B2EBF2; /* featured color dark */
   transition: all 0.5s;
 }
 
+.schedule {
+color: #B2EBF2; /* featured color dark */
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
 .logo {
   max-height: 2.5rem;
   max-width: 15rem;
