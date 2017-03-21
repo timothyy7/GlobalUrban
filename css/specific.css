@@ -274,9 +274,12 @@ li {
   background-color: #B2EBF2;
 }
 
-
 .contactMeToday {
   padding: 1rem;
+}
+
+.love {
+  font-size: 5rem;
 }
 
 /* Page Name  - Section Name */
