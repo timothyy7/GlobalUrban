@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Single Most Important Reason Why Online Marketing Is More Important Than Ever
-meta-description:
-meta-keywords:
+meta-description: How to do Internet Marketing
+meta-keywords: internet, marketing, internet marketing, ads, advertising, online marketing, digital marketing
 image_path: /images/marketing1.png
 categories: [online, marketing]
 author: Nicole Leinbach-Reyhle
